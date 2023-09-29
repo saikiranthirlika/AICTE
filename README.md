@@ -20,7 +20,7 @@ This repository contains the code and resources for a sentiment analysis project
 To get started with this project, you can simply clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/saikiranthirlika/sentiment-analysis-project.git
+git clone https://github.com/saikiranthirlika/AICTE.git
 ```
 
 ## Prerequisites
